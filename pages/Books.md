@@ -1,7 +1,9 @@
-# Current
+# Books
+
+## Current
 - The Linux Programming Interface
 
-# In the queue
+## In the queue
 - Ego is the Enemy
 - Type Talk at Work
 - Grit
@@ -17,7 +19,7 @@
 - Clean Code
 
 
-# Books to Get
+## Books to Get
 - Think Again: Adam Grant
 
 - The Obstacle is the Way: Ryan Holiday
@@ -203,14 +205,14 @@
 - Sphere
 - Prey
 
-# 2022
+## 2022
 - Automate the Boring Stuff
 - A Game of Thrones
 - Cracking the Coding Interview
 - A Clash of Kings
 - Enjoy the Ride: Steve Gilliland
 
-# 2021
+## 2021
 - Training for Climbing
 - Freedom of the Hills
 - Sapiens
@@ -225,7 +227,7 @@
 - The Subtle Art of Not Giving a Fuck
 - The Unix Command Line
 
-# 2020
+## 2020
 - The Push
 - How to Rock Climb
 - Running with Sherman
@@ -233,7 +235,7 @@
 - Unfuck Your Brain
 - Pragmatic Programmer
 
-# 2019
+## 2019
 - The Phoenix Project
 - Alone on the Wall
 - Site Reliability Engineering
