@@ -12,3 +12,4 @@
 > `make` -> A Database System using time stamps; expects time to always be increasing  
 > `adjtime` -> preferred call for adjusting linux time  
 > `lc_*` for locales regarding time, money, chars, numerics  
+> `uname -a` -> find system arch details (32 vs 64)  
