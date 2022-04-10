@@ -1,5 +1,6 @@
 ---
 title: VIM
+layout: page
 ---
 # Visual Mode
 

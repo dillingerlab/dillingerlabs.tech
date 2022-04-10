@@ -1,5 +1,6 @@
 ---
 title: Books
+layout: page
 ---
 ## Current
 - The Linux Programming Interface
