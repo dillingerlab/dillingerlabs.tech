@@ -237,10 +237,6 @@ title: Books
 - Pragmatic Programmer
 
 ## 2019
-- The Phoenix Project
-- Alone on the Wall
-- Site Reliability Engineering
-- On the Road
-- Hackers and Painters
-- The Information
-- How Linux Works
+{% for book in site.data.read.2019 %}
+  - {{ book }}
+{% endfor %}
