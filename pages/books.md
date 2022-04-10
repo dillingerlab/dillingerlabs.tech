@@ -6,19 +6,9 @@ layout: page
 - The Linux Programming Interface
 
 ## In the queue
-- Ego is the Enemy
-- Type Talk at Work
-- Grit
-- A Storm of Swords
-- A Feast of Crows
-- A Dance with Dragons
-- Designing Distributed Systems
-- Bite Size Linux
-- Bite Size Networking
-- Bite Size Command Line
-- Bite Size Bash
-- Code Complete
-- Clean Code
+{% for book in site.data.queue %}
+  - {{ book }}
+{% endfor %}
 
 
 ## Books to Get
@@ -208,34 +198,19 @@ layout: page
 - Prey
 
 ## 2022
-- Automate the Boring Stuff
-- A Game of Thrones
-- Cracking the Coding Interview
-- A Clash of Kings
-- Enjoy the Ride: Steve Gilliland
+{% for book in site.data.read.2022 %}
+  - {{ book }}
+{% endfor %}
 
 ## 2021
-- Training for Climbing
-- Freedom of the Hills
-- Sapiens
-- Power of Habits
-- Born to Run
-- The Practices of Programming
-- Trespassing Across America
-- Falcon Self Rescue
-- This Land is Our Land
-- Python Cookbook
-- Rock Warrior's Way
-- The Subtle Art of Not Giving a Fuck
-- The Unix Command Line
+{% for book in site.data.read.2021 %}
+  - {{ book }}
+{% endfor %}
 
 ## 2020
-- The Push
-- How to Rock Climb
-- Running with Sherman
-- High Performance Python
-- Unfuck Your Brain
-- Pragmatic Programmer
+{% for book in site.data.read.2020 %}
+  - {{ book }}
+{% endfor %}
 
 ## 2019
 {% for book in site.data.read.2019 %}
