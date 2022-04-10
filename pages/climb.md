@@ -1,2 +1,4 @@
-# Climbing
-> as an Art
+---
+title: Climbing
+---
+as an Art

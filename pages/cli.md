@@ -1,1 +1,5 @@
-# cli
+---
+title: CLI
+---
+
+# Command Line Interface
