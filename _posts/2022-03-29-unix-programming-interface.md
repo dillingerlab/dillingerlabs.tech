@@ -17,3 +17,6 @@
 > `LOGIN_NAME_MAX==9` -> Explains why 8 char limit (1 is for `null`)  
 > `SUSv3` minimum limit is the reverse ie set max so programs can be portable  
 > `time <program>` -> Could it these server as a lightweight performance tool  
+> `MS_RDONLY` -> I wonder if docker uses this for its immutable filesystem  
+> `utime/utimes` -> sys calls for file system timestamps from programs (unzip)  
+> `get/setfacl` -> experience with this from the Hadoop ecosystem  
