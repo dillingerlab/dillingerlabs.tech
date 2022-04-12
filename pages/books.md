@@ -216,3 +216,8 @@ layout: page
 {% for book in site.data.read.2019 %}
   - {{ book }}
 {% endfor %}
+
+## 2018
+{% for book in site.data.read.2018 %}
+  - {{ book }}
+{% endfor %}
