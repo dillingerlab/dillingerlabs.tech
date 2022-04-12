@@ -20,3 +20,7 @@
 > `MS_RDONLY` -> I wonder if docker uses this for its immutable filesystem  
 > `utime/utimes` -> sys calls for file system timestamps from programs (unzip)  
 > `get/setfacl` -> experience with this from the Hadoop ecosystem  
+## Signals
+- `inotify` Is there something like this on the command line? Found `inotifywait` but does appear to be standard lib (at least on mac)
+- `sigterm == 15` use this over SIGKILL
+- noreentrant: `SUSv3` "whose effect called by 2+ threads is guaranteed to be as if the threads each executed the function one after the other in an undefined order even if the actual execution is interweaved*"
