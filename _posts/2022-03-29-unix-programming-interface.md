@@ -29,4 +29,13 @@
 - `inotify` Is there something like this on the command line? Found `inotifywait` but does appear to be standard lib (at least on mac)
 - `sigterm == 15` use this over SIGKILL
 - `sighup == 3` -> `control + \`
-- noreentrant: `SUSv3` "whose effect called by 2+ threads is guaranteed to be as if the threads each executed the function one after the other in an undefined order even if the actual execution is interweaved*"
+- noreentrant: `SUSv3` "whose effect called by 2+ threads is guaranteed to be as if the threads each executed the function one after the other in an undefined order even if the actual execution is interweaved"
+
+## Processes
+- `gdb` for running core dump with gcore
+- `system` in C allows straight syscalls ie why python lib is called sys
+- Read 2 bytes of file is `#!` then execute with binary called out
+- PATH and exec. `execev` refs `PATH` to find binaries
+- zombie process of child, kill parent to go to init ownership
+- fork "text segment" marked as read only for sharing
+- fork exit use \_exit status execve replace data passed from fork
