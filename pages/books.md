@@ -13,7 +13,13 @@ layout: page
 
 ## Books to Get
 {% for book in site.data.find %}
-  - {{ book[0] }}: {{ book[1] }}
+    {% if book[1].first %}
+        {% for title in book[1] %}
+- {{ title }}: {{ book[0] }}
+        {% endfor %}
+    {% else if %}
+- {{ book[0] }}: {{ book[1] }}
+    {% endif %}
 {% endfor %}
 
 ## 2022
