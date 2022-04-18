@@ -39,3 +39,5 @@
 - zombie process of child, kill parent to go to init ownership
 - fork "text segment" marked as read only for sharing
 - fork exit use \_exit status execve replace data passed from fork
+
+## Threads
