@@ -41,3 +41,8 @@
 - fork exit use \_exit status execve replace data passed from fork
 
 ## Threads
+- `mutex` == mutual exclusion
+- `mutex lock` lock and unlock like a talking stick on global vars
+- `tgkill` how to kill a thread
+
+## Job Control
