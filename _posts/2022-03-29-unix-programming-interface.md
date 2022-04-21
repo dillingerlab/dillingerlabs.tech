@@ -46,3 +46,10 @@
 - `tgkill` how to kill a thread
 
 ## Job Control
+- `control+d` -> logout; use logout over exit, what is the difference?
+- `disown` - I have used this if I forgot I need to `nohup` a process
+- `control +z` + `bg` to start in background, `fg` to bring top of top job stack to foreground
+- login session is controlling processing (IO) set to handle `sighup`
+- jobs %num to work with that process on the stack
+- Use jobs over new terminals
+- `stty`
