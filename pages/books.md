@@ -4,6 +4,7 @@ layout: page
 ---
 ## Current
 - The Linux Programming Interface
+- [Espresso Lessons](/2022/04/23/Espreso-Lessons.html)
 
 ## In the queue
 {% for book in site.data.queue %}
