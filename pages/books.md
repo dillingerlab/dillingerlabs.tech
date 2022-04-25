@@ -3,7 +3,7 @@ title: Books
 layout: page
 ---
 ## Current
-- The Linux Programming Interface
+- [The Linux Programming Interface](/2022/03/29/unix-programming-interface.html)
 - [Espresso Lessons](/2022/04/23/Espreso-Lessons.html)
 
 ## In the queue
