@@ -53,3 +53,4 @@
 - jobs %num to work with that process on the stack
 - Use jobs over new terminals
 - `stty`
+- bash `ulimit` to set resource constraints
