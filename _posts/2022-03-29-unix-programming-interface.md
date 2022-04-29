@@ -54,3 +54,7 @@
 - Use jobs over new terminals
 - `stty`
 - bash `ulimit` to set resource constraints
+- `gcc` always use `-g` to include debugging
+- `syslog` - does `journald` replace this?
+- `logrotate` program
+- kernel threads have "[]" in `ps`
