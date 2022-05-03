@@ -75,3 +75,4 @@ ls -l | tee myfifo | sort -k5n # list dir to file descirptor, sort stdout as wel
 | --- | subtract 1 to semaphore - BLOCKED |
 | add 1 to semaphore | subtract 1 to semaphore - UNBLOCKED |
 | subtract 1 to semaphore - BLOCKED | --- |
+- `OOMKiller` never heard of the low level implementation; cool
