@@ -58,3 +58,20 @@
 - `syslog` - does `journald` replace this?
 - `logrotate` program
 - kernel threads have "[]" in `ps`
+- `ELF` - Executable and Linked Format
+
+## Interprocess Communication - IPC
+- `mkfifi` command line program to make FIFO queue
+```bash
+mkfifo myfifo # create FIFO Queue (file descriptor)
+wc -l < myififo & # have word count process data off file descriptor
+ls -l | tee myfifo | sort -k5n # list dir to file descirptor, sort stdout as well
+```
+- `semaphores` this seem really cool, do not have a use case though
+| Process A | Process B |
+| --- | --- |
+| Create Semaphore | ---|
+| add 1 to semaphore | --- |
+| --- | subtract 1 to semaphore - BLOCKED |
+| add 1 to semaphore | subtract 1 to semaphore - UNBLOCKED |
+| subtract 1 to semaphore - BLOCKED | --- |
