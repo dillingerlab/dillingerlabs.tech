@@ -1,4 +1,9 @@
 ## History and Standards
+### The Artist Formally Known as `C`
+
+### Revelations
+I really did not know what I was getting myself into with this book. Both the thousand plus pages nor the deep level of `C` that would be covered. Tangible knowledge that I have latched onto are the programs built in `C` that I leverage via the command line. It also has connected several synapses for what files I should be aware on the  file system. The most design focused aspects that I would love to explore more on the different IPC protocols. I have ran across these and thinking about their implementation when designing software for work, I had never explored what they _actually_ are below the scenes.
+
 >
 - Ken Thompson
 - Dennis Ritchie
