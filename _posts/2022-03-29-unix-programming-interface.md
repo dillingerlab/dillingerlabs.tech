@@ -81,3 +81,6 @@ ls -l | tee myfifo | sort -k5n # list dir to file descirptor, sort stdout as wel
 | add 1 to semaphore | subtract 1 to semaphore - UNBLOCKED |
 | subtract 1 to semaphore - BLOCKED | --- |
 - `OOMKiller` never heard of the low level implementation; cool
+- daemons use file mandatory file locking to manage instance (ie only one) - common ports are often used the same way
+
+# Sockets
