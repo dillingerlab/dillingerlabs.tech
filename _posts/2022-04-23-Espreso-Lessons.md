@@ -9,3 +9,4 @@
 - "difficult" means stress; watch for saying difficult
 
 ## Chapter Three
+- Focus on "process goals" - In the moment say to self "next move is valuable, so make it" Ie if you get the position and the risk is acceptable the move should be made
