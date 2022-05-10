@@ -9,5 +9,7 @@ layout: page
 - [vim-jedi](https://github.com/davidhalter/jedi-vim)
 
 # Visual Mode
+## How to use `registers`
+- Recent addition to the tool belt; very powerful for bulk copy paste across sessions ie "i7yy` + `"iP`
 
 # Insert Mode
