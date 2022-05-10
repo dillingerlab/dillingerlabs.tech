@@ -24,6 +24,7 @@ layout: page
 {% endfor %}
 
 ## 2022
+  - [The Linux Programming Interface](/2022/03/29/unix-programming-interface.html)
 {% for book in site.data.read.2022 %}
   - {{ book }}
 {% endfor %}
