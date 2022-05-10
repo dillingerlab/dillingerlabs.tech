@@ -84,3 +84,12 @@ ls -l | tee myfifo | sort -k5n # list dir to file descirptor, sort stdout as wel
 - daemons use file mandatory file locking to manage instance (ie only one) - common ports are often used the same way
 
 # Sockets
+- `netstat` - list socks in use or just on the machine
+- "broadcasting" - all listeners
+- "multicasting" - certain listeners
+
+# Terminal (TTY)
+- `canonical mode` - Linear
+- `noncanical mode` - Where needed - think `less`, `vim`
+- Carriage Return = CR = `^M` - I have seen this in files when opened with `vim` or `less`; also `git diff`
+
