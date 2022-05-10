@@ -4,8 +4,7 @@ layout: page
 ---
 ## Practice
 - `ctrl + d` = `logout`
-- For macOS: Caps Lock to Escape Key
-- For MacOS: Command Key to Control Key
+- Map: Caps Lock to `control`  Key
 
 ## Explore
 - `ulimit` - used in script to set resource limits (unix-programming-interface)
