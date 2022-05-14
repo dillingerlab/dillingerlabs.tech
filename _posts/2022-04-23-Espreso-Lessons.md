@@ -23,3 +23,10 @@
 - Don't watch climber for fall; feel it an react
 - At stances BERP (Breadth, Relaxed Eyes; relaxed Body; Posture)
 - Convert my intellectual knowledge to experiential knowledge
+
+# Chapter Five
+- "Stop and Think" or "Move and Do" Mindset
+- Technique: Lower Heel?? Review myself, am I on my toes to much?
+- Technique: "little Feet" - Less big moves using legs/arms; Review myself; Think I do this pretty well
+- Practice Down Climb on Lead; Use this to climb smarter
+- Learning stops once you fall or take; Push on
