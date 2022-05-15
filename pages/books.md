@@ -3,13 +3,11 @@ title: Books
 layout: page
 ---
 ## Current
-- [Espresso Lessons](/2022/04/23/Espreso-Lessons.html)
 
 ## In the queue
 {% for book in site.data.queue %}
   - {{ book }}
 {% endfor %}
-
 
 ## Books to Get
 {% for book in site.data.find %}
@@ -24,7 +22,8 @@ layout: page
 
 ## 2022
   - [The Linux Programming Interface](/2022/03/29/unix-programming-interface.html)
-{% for book in site.data.read.2022 %}
+  - [Espresso Lessons](/2022/04/23/Espreso-Lessons.html
+){% for book in site.data.read.2022 %}
   - {{ book }}
 {% endfor %}
 
