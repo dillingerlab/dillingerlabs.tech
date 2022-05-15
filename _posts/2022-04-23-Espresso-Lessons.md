@@ -44,3 +44,5 @@
 - Practice Full stack falls (at 40ft), do top rope, do lead falls
 - Practice Falls with self, don't tell belayer to build confidence and skills, by falling at bolt and progress by 1 hold each hold
 - Practice Falls with belayer initialed falls
+- Resting -> Transitioning -> Climbing; Say that out loud
+- Lower heels to de-stress
