@@ -21,6 +21,7 @@ layout: page
 {% endfor %}
 
 ## 2022
+<<<<<<< HEAD
   - [The Linux Programming Interface](/2022/03/29/unix-programming-interface.html)
   - [Espresso Lessons](/2022/04/23/Espresso-Lessons.html
 ){% for book in site.data.read.2022 %}
@@ -28,6 +29,10 @@ layout: page
 - [The Linux Programming Interface](/2022/03/29/unix-programming-interface.html)
 {% for book in site.data.read.2022 %}
 - {{ book }}
+=======
+{% for book in site.data.read.2022%}
+- [{{book.title}}]({{ book.post}}): {{ book.author }}
+>>>>>>> 1d2419b7 (use data structures for linking posts)
 {% endfor %}
 
 ## 2021
