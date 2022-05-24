@@ -3,6 +3,7 @@ title: Books
 layout: page
 ---
 ## Current
+- Ego is the Enemy
 
 ## In the queue
 {% for book in site.data.queue %}
