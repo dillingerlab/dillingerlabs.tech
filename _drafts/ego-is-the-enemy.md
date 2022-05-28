@@ -11,3 +11,6 @@ I want to focus on this wording. What I have for technology is  purpose not a pa
 # Passion typically masks a weakness
     What does this mean to me? What am I truly passionate about?
 # Opportunities are obscure, dusted over, blocked by various forms of resistance
+# Restrain Yourself
+In regards to ego, what does that feel like to me? I think this chapter had the least impacts to me
+# Let others take your credit... I'm here for the long game - find my silenece dogood
