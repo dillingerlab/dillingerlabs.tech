@@ -14,3 +14,8 @@ I want to focus on this wording. What I have for technology is  purpose not a pa
 # Restrain Yourself
 In regards to ego, what does that feel like to me? I think this chapter had the least impacts to me
 # Let others take your credit... I'm here for the long game - find my silenece dogood
+# What do I have pride about?
+Do I face with climbing? Am I prideful about my ability to climbing better than my peers?
+# Don't boast. There's nothing in it for you
+# In regards to 10,000 hours - To think of a number is to live in a conditional future... To put it more bluntly "We are simply talking about a lot of hours
+# Ignore others and your own accolades
