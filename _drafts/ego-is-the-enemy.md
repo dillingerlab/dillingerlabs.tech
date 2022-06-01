@@ -24,3 +24,13 @@ Do I face with climbing? Am I prideful about my ability to climbing better than 
 # When we are aspiring we must resist the impulse to reverse engineer success from other people's stories. When we achieve our own, we must resist the desire to pretend that everything unfolded exactly as we'd planned. There was no grand narrative. You should remember-you were there when it happened.
 #Narrative is when you look back at an improbable or unlikely path to your success and say: I knew it all along. Instead of: I hoped. I worked. I got some good breaks. Or even: I thought this could happen. Of course you didn't really know all along-or if you did, it was more faith than knowledge. But who wants to remember all the times you doubted yourself?
 # you start with a small bet and itera tively scale your ambitions as you go. His other famous piece of advice, "Keep your identity small," fits well here. Make it about the work and the principles behind it
+# It absolutely critical that you know who you’re competing with and why, that you have a clear sense of the space you are in
+# Euthymia it’s about being what you are without succumbing to all the things that draw you away from it - therapy this is something that makes or breaks me sense of control with control, I make the most progress when I feel this, no more no less
+# Euthymia translate to tranquillity
+# Taking time of work to focus on self just feels right
+# It’s time to sit down and think about what is truly important to you and take steps to forsake the rest
+# Ignore those who mess with your pace
+# One symptoms of approaching nervous breakdown is the belief that one’s work is terribly important
+# You’re becoming who you are going to be and so you might as not be an asshole
+# Mediate on the immensity
+# Let the feeling carry you as long as you can then when you start to feel better or bigger than go and do it again. Niches quote. Volume turned down
