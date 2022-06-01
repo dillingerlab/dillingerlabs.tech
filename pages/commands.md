@@ -22,6 +22,12 @@ layout: page
 - `alt+u`: capitalize every character from cursor to end of current word \*
 - `alt+l`: uncapitalize every character from cursor to end of current word \*
 - `alt+c`: capitalize the character under the cursor
+
+
+## misc
+- `!!`: run previous command
+- `fc`: fix previous command
+
 # Improve Control Mapping
 - Map: Caps Lock to `control`  Key
 ## Windows:
