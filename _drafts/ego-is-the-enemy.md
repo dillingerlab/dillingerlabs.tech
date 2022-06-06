@@ -34,3 +34,8 @@ Do I face with climbing? Am I prideful about my ability to climbing better than 
 # You’re becoming who you are going to be and so you might as not be an asshole
 # Mediate on the immensity
 # Let the feeling carry you as long as you can then when you start to feel better or bigger than go and do it again. Niches quote. Volume turned down
+# Am I going to be miserable just because other people are?
+# The soul that is within me no man can degrade
+# With purpose and adversity can be endured and any rewards are considered extra
+In life there will be times when we do everything right. Yet the results will somehow be negative. Depending on what motivates us this can be crushing. If ego holds sway we’ll accept nothing less than full appreciation. Watch for this
+# Choices are a reflection of our character
