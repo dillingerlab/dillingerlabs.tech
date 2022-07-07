@@ -3,7 +3,6 @@ title: Books
 layout: page
 ---
 ## Current
-- Jurassic Park
 
 ## In the queue
 {% for book in site.data.queue %}
