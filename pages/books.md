@@ -9,6 +9,14 @@ layout: page
   - {{ book }}
 {% endfor %}
 
+## Authors
+- Ken Thompson
+- Dennis Ritchie
+- Richard Stallman
+- Brian Kernighan
+- Michael Kerrisk
+
+
 ## Books to Get
 {% for book in site.data.find %}
     {% if book[1].first %}
