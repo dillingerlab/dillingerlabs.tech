@@ -22,11 +22,14 @@ layout: page
 - [`rigrep`](https://github.com/BurntSushi/ripgrep)
 - [`hyperfine`](https://github.com/sharkdp/hyperfine): benchmarking tool for commands
     - Could I use this in a build system to check test runtime, maybe scheduled to check once a month that performance is in check
+- zless: less a `zip` file
+
 
 # Command Line
 ## Practice
 - `ctrl + d` = `logout`
 - `ctrl + d` = delete character under cursor
+- `ctrl + D` = delete character
 - `ctrl+x`: undo last editing command
 - `alt+f`: move forward a word
 - `alt+b`: move backward a word
@@ -49,6 +52,13 @@ layout: page
 ## misc
 - `!!`: run previous command
 - `fc`: fix previous command
+- `ctrl+z` then `bg, fg, &`
+- `/opt` for installs
+- constant -> uppercase
+- variable -> lowercase
+- `grep test *.txt`
+- `bash -x` or `set -x`: enable tracing
+
 
 # Improve Control Mapping
 - Map: Caps Lock to `control`  Key
@@ -97,6 +107,12 @@ layout: page
 - `ciw`: replace word \*
 - `cw`: replace to end of word \*
 - `s|S`: delete character|word and substitute \*
+- `dw`: delete word
+- `d$`: delete to end of line
+- `d0`: delete to start of line
+- `yw`: yank word
+- `y$`: yank to end of line
+- `y0`: yank to start of line
 
 # Spellcheck
 - `]s`: next
