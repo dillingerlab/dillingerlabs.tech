@@ -3,7 +3,7 @@ title: Books
 layout: page
 ---
 ## Current
-- title: Write Great Code
+- Type Talk at Work
 
 ## In the queue
 {% for book in site.data.queue %}
