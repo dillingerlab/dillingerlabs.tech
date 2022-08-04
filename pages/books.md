@@ -12,18 +12,14 @@ layout: page
 
 ## Books to Get
 {% for book in site.data.find %}
-    {% if book[1].first %}
-        {% for title in book[1] %}
-- {{ title }}: {{ book[0] }}
-        {% endfor %}
-    {% else if %}
-- {{ book[0] }}: {{ book[1] }}
-    {% endif %}
+- Title: {{ book[0] }}
+- Author: {{ book[1].author }}
 {% endfor %}
 
 ## 2022
 {% for book in site.data.read.2022%}
-- [{{book.title}}]({{ book.post}}): {{ book.author }}
+- Title: [{{ book[0] }}]({{ book[1].post }})
+- Author: {{ book[1].author }}
 {% endfor %}
 
 ## 2021

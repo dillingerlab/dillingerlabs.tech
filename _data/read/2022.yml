@@ -1,19 +1,42 @@
-- title: Espresso Lessons
+Espresso Lessons:
+  author: 'Arno Ilgner'
   post: '/2022/04/23/Espresso-Lessons.html'
-- title: The Linux Programming Interface
-  author: Michael Kerrisk
+The Linux Programming Interface:
+  author: 'Michael Kerrisk'
   post: '/2022/03/29/unix-programming-interface.html'
-- title: Automate the Boring Stuff
-- title: A Game of Thrones
-- title: Cracking the Coding Interview
-- title: A Clash of Kings
-- title: Enjoy the Ride
+Automate the Boring Stuff:
+  author: 'Al Sweigart '
+  post: 'na'
+A Game of Thrones:
+  author: 'George R. R. Martin'
+  post: 'na'
+Cracking the Coding Interview:
+  author: 'Gayle Laakmann McDowell'
+  post: 'na'
+A Clash of Kings:
+  author: 'George R. R. Martin'
+  post: 'na'
+Enjoy the Ride:
+  author: 'Steve Gilliland'
   post: '/2022/04/03/Enjoy-the-Ride.html'
-- title: Ego is the Enemy
-  post: 'TODO'
-- title: Jurassic Park
-- title: Bite Size Linux
-- title: Bite Size Networking
-- title: Bite Size Command Line
-- title: Bite Size Bash
-- title: Write Great Code
+Ego is the Enemy:
+  author: 'Ryan Holiday'
+  post: 'na'
+Jurassic Park:
+  author: 'Michael Crichton'
+  post: 'na'
+Bite Size Linux:
+  author: 'Julia Evans'
+  post: 'na'
+Bite Size Networking:
+  author: 'Julia Evans'
+  post: 'na'
+Bite Size Command Line:
+  author: 'Julia Evans'
+  post: 'na'
+Bite Size Bash:
+  author: 'Julia Evans'
+  post: 'na'
+Write Great Code:
+  author: 'Randall Hyde'
+  post: 'na'
