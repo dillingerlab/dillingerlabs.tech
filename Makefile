@@ -20,6 +20,7 @@ kill:
 	pgrep jekyll | xargs kill -15
 
 lint:
+	$(MAKE) $(VENV)
 	$(CURDIR)/.venv/bin/yamllint ./
 
 clean:
