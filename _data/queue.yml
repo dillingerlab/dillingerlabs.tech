@@ -1,10 +1,37 @@
 ---
-- Grit
-- A Storm of Swords
-- A Feast of Crows
-- A Dance with Dragons
-- Designing Distributed Systems
-- Code Complete
-- Clean Code
-- Fluent Python
-- Eve Templar One
+Grit:
+  author: 'na'
+  post: na
+  category: na
+A Storm of Swords:
+  author: 'na'
+  post: na
+  category: fantasy
+A Feast of Crows:
+  author: 'na'
+  post: na
+  category: fantasy
+A Dance with Dragons:
+  author: 'na'
+  post: na
+  category: fantasy
+Designing Distributed Systems:
+  author: 'na'
+  post: na
+  category: na
+Code Complete:
+  author: 'na'
+  post: na
+  category: na
+Clean Code:
+  author: 'na'
+  post: na
+  category: na
+Fluent Python:
+  author: 'na'
+  post: na
+  category: na
+Eve Templar One:
+  author: 'na'
+  post: na
+  category: fantasy
