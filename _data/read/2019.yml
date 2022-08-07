@@ -1,8 +1,29 @@
 ---
-- The Phoenix Project
-- Alone on the Wall
-- Site Reliability Engineering
-- On the Road
-- Hackers and Painters
-- The Information
-- How Linux Works
+The Phoenix Project:
+  author: 'na'
+  post: na
+  category: na
+Alone on the Wall:
+  author: 'Alex Honnold'
+  post: na
+  category: ['climbing', 'adventure']
+Site Reliability Engineering:
+  author: 'na'
+  post: na
+  category: na
+On the Road:
+  author: 'na'
+  post: na
+  category: na
+Hackers and Painters:
+  author: 'na'
+  post: na
+  category: ['technology', 'craftsmanship']
+The Information:
+  author: 'na'
+  post: na
+  category: na
+How Linux Works:
+  author: 'na'
+  post: na
+  category: 'technology'

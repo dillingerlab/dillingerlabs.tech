@@ -23,31 +23,64 @@ layout: page
 </details>
 
 ## 2022
-{% for book in site.data.read.2022%}
-- Title: [{{ book[0] }}]({{ book[1].post }})
-- Author: {{ book[1].author }}
-- Category: {{ book[1].category }}
-{% endfor %}
+<details>
+  <summary>Click to expand</summary>
+  <pre>
+  {% for book in site.data.read.2022 %}
+  - Title: {{ book[0] }}
+  - Author: {{ book[1].author }}
+  - Category: {{ book[1].category }}
+  {% endfor %}
+  </pre>
+</details>
 
 ## 2021
 Favorite: This Land is Our Land
-{% for book in site.data.read.2021 %}
-- {{ book }}
-{% endfor %}
+<details>
+  <summary>Click to expand</summary>
+  <pre>
+  {% for book in site.data.read.2021 %}
+  - Title: {{ book[0] }}
+  - Author: {{ book[1].author }}
+  - Category: {{ book[1].category }}
+  {% endfor %}
+  </pre>
+</details>
 
 ## 2020
 Favorite: Pragmatic Programmer
-{% for book in site.data.read.2020 %}
-- {{ book }}
-{% endfor %}
+<details>
+  <summary>Click to expand</summary>
+  <pre>
+  {% for book in site.data.read.2020 %}
+  - Title: {{ book[0] }}
+  - Author: {{ book[1].author }}
+  - Category: {{ book[1].category }}
+  {% endfor %}
+  </pre>
+</details>
 
 ## 2019
 Favorite: Hackers and Painters
-{% for book in site.data.read.2019 %}
-- {{ book }}
-{% endfor %}
+<details>
+  <summary>Click to expand</summary>
+  <pre>
+  {% for book in site.data.read.2019 %}
+  - Title: {{ book[0] }}
+  - Author: {{ book[1].author }}
+  - Category: {{ book[1].category }}
+  {% endfor %}
+  </pre>
+</details>
 
 ## 2018
-{% for book in site.data.read.2018 %}
-- {{ book }}
-{% endfor %}
+<details>
+  <summary>Click to expand</summary>
+  <pre>
+  {% for book in site.data.read.2018 %}
+  - Title: {{ book[0] }}
+  - Author: {{ book[1].author }}
+  - Category: {{ book[1].category }}
+  {% endfor %}
+  </pre>
+</details>
