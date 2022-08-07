@@ -12,8 +12,8 @@ layout: page
   <pre>
   {% for book in site.data.queue %}
   - Title: {{ book[0] }}
-  - Author: {{ book[1].author }}
-  - Category: {{ book[1].category }}
+    Author: {{ book[1].author }}
+    Category: {{ book[1].category }}
   {% endfor %}
   </pre>
 </details>
@@ -25,8 +25,8 @@ layout: page
   <pre>
   {% for book in site.data.find %}
   - Title: {{ book[0] }}
-  - Author: {{ book[1].author }}
-  - Category: {{ book[1].category }}
+    Author: {{ book[1].author }}
+    Category: {{ book[1].category }}
   {% endfor %}
   </pre>
 </details>
@@ -38,8 +38,8 @@ layout: page
   <pre>
   {% for book in site.data.read.2022 %}
   - Title: {{ book[0] }}
-  - Author: {{ book[1].author }}
-  - Category: {{ book[1].category }}
+    Author: {{ book[1].author }}
+    Category: {{ book[1].category }}
   {% endfor %}
   </pre>
 </details>
@@ -52,8 +52,8 @@ Favorite: This Land is Our Land
   <pre>
   {% for book in site.data.read.2021 %}
   - Title: {{ book[0] }}
-  - Author: {{ book[1].author }}
-  - Category: {{ book[1].category }}
+    Author: {{ book[1].author }}
+    Category: {{ book[1].category }}
   {% endfor %}
   </pre>
 </details>
@@ -66,8 +66,8 @@ Favorite: Pragmatic Programmer
   <pre>
   {% for book in site.data.read.2020 %}
   - Title: {{ book[0] }}
-  - Author: {{ book[1].author }}
-  - Category: {{ book[1].category }}
+    Author: {{ book[1].author }}
+    Category: {{ book[1].category }}
   {% endfor %}
   </pre>
 </details>
@@ -80,8 +80,8 @@ Favorite: Hackers and Painters
   <pre>
   {% for book in site.data.read.2019 %}
   - Title: {{ book[0] }}
-  - Author: {{ book[1].author }}
-  - Category: {{ book[1].category }}
+    Author: {{ book[1].author }}
+    Category: {{ book[1].category }}
   {% endfor %}
   </pre>
 </details>
@@ -93,8 +93,8 @@ Favorite: Hackers and Painters
   <pre>
   {% for book in site.data.read.2018 %}
   - Title: {{ book[0] }}
-  - Author: {{ book[1].author }}
-  - Category: {{ book[1].category }}
+    Author: {{ book[1].author }}
+    Category: {{ book[1].category }}
   {% endfor %}
   </pre>
 </details>
