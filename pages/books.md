@@ -11,11 +11,16 @@ layout: page
 {% endfor %}
 
 ## Books to Get
-{% for book in site.data.find %}
-- Title: {{ book[0] }}
-- Author: {{ book[1].author }}
-- Category: {{ book[1].category }}
-{% endfor %}
+<details>
+  <summary>Click to expand</summary>
+  <pre>
+  {% for book in site.data.find %}
+  - Title: {{ book[0] }}
+  - Author: {{ book[1].author }}
+  - Category: {{ book[1].category }}
+  {% endfor %}
+  </pre>
+</details>
 
 ## 2022
 {% for book in site.data.read.2022%}
