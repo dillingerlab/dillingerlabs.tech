@@ -2,13 +2,9 @@
 title: Books
 layout: page
 ---
-## Current
-- Type Talk at Work
 
----
-## In the queue
 <details>
-  <summary>Click to expand</summary>
+  <summary>In the queue</summary>
   <pre>
   {% for book in site.data.queue %}
   - Title: {{ book[0] }}
@@ -18,10 +14,8 @@ layout: page
   </pre>
 </details>
 
----
-## Books to Get
 <details>
-  <summary>Click to expand</summary>
+  <summary>Books to Get</summary>
   <pre>
   {% for book in site.data.find %}
   - Title: {{ book[0] }}
@@ -31,10 +25,8 @@ layout: page
   </pre>
 </details>
 
----
-## 2022
 <details>
-  <summary>Click to expand</summary>
+  <summary>2022</summary>
   <pre>
   {% for book in site.data.read.2022 %}
   - Title: {{ book[0] }}
@@ -44,11 +36,9 @@ layout: page
   </pre>
 </details>
 
----
-## 2021
-Favorite: This Land is Our Land
 <details>
-  <summary>Click to expand</summary>
+  <summary>2021</summary>
+  <body>Favorite: This Land is Our Land</body>
   <pre>
   {% for book in site.data.read.2021 %}
   - Title: {{ book[0] }}
@@ -58,11 +48,9 @@ Favorite: This Land is Our Land
   </pre>
 </details>
 
----
-## 2020
-Favorite: Pragmatic Programmer
 <details>
-  <summary>Click to expand</summary>
+  <summary>2020</summary>
+  <body>Favorite: Pragmatic Programmer</body>
   <pre>
   {% for book in site.data.read.2020 %}
   - Title: {{ book[0] }}
@@ -72,11 +60,9 @@ Favorite: Pragmatic Programmer
   </pre>
 </details>
 
----
-## 2019
-Favorite: Hackers and Painters
 <details>
-  <summary>Click to expand</summary>
+  <summary>2019</summary>
+  <body>Favorite: Hackers and Painters</body>
   <pre>
   {% for book in site.data.read.2019 %}
   - Title: {{ book[0] }}
@@ -86,10 +72,9 @@ Favorite: Hackers and Painters
   </pre>
 </details>
 
----
-## 2018
 <details>
-  <summary>Click to expand</summary>
+  <summary>2018</summary>
+  <body>Favorite: Hackers and Painters</body>
   <pre>
   {% for book in site.data.read.2018 %}
   - Title: {{ book[0] }}
