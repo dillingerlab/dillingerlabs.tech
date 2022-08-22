@@ -2,6 +2,9 @@
 title: Tools
 layout: page
 ---
+
+# Table of Contents
+
 # Projects
 1. Hash Algorithm
 1. Fizz Buzz
@@ -17,16 +20,19 @@ layout: page
 - Michael Kerrisk
 - Donald Knuth - linux
 
-# Check it out
+# Tools to Checkout
 - [`direnv`](https://direnv.net)
 - [`rigrep`](https://github.com/BurntSushi/ripgrep)
 - [`hyperfine`](https://github.com/sharkdp/hyperfine): benchmarking tool for commands
-    - Could I use this in a build system to check test runtime, maybe scheduled to check once a month that performance is in check
-- zless: less a `zip` file
+- `zless`: less a `zip` file
 
+# Windows Improvements
+- [Map Caps Lock to Right Control Key](https://superuser.com/questions/949385/map-capslock-to-control-in-windows-10)
 
 # Command Line
-## Practice
+<details>
+<summary>Command Line Tools</summary>
+<pre>
 - `ctrl + d` = `logout`
 - `ctrl + d` = delete character under cursor
 - `ctrl + D` = delete character
@@ -47,9 +53,6 @@ layout: page
 - `alt+u`: capitalize every character from cursor to end of current word \*
 - `alt+l`: uncapitalize every character from cursor to end of current word \*
 - `alt+c`: capitalize the character under the cursor
-
-
-## misc
 - `!!`: run previous command
 - `fc`: fix previous command
 - `ctrl+z` then `bg, fg, &`
@@ -58,35 +61,39 @@ layout: page
 - variable -> lowercase
 - `grep test *.txt`
 - `bash -x` or `set -x`: enable tracing
-
-
-# Improve Control Mapping
-- Map: Caps Lock to `control`  Key
-## Windows:
-> https://superuser.com/questions/949385/map-capslock-to-control-in-windows-10
-
-## Explore
 - `ulimit` - used in script to set resource limits (unix-programming-interface)
 - `SIGQUIT` - create a core dump; need to config it on the OS
-
+</pre>
+</details>
 
 # VIM
-# Notes
-- Should I remap leader key; currently its not in my workflow but it should be (space or comma?)
-
-# Plugins
+<details>
+<summary>Plugins</summary>
+<pre>
 - [vim-jedi](https://github.com/davidhalter/jedi-vim)
+</pre>
+</details>
 
-# How to use `registers`
+<details>
+<summary>Registers</summary>
+<pre>
 - Recent addition to the tool belt; very powerful for bulk copy paste across sessions ie "i7yy` + `"iP`
 - `:reg`: list register content
 - register `0` always contains last yank
+</pre>
+</details>
 
-# Insert Mode
+<details>
+<summary>Insert Mode</summary>
+<pre>
 - `a|A`: go to insert mode and append \*
 - `ea`: go to insert mode, appending after end of word \*
+</pre>
+</details>
 
-# Commands - \* to learn
+<details>
+<summary>Commands</summary>
+<pre>
 - `.`: repeat last command
 - `K`: open man page for word under cursor \*
 - `e|E`: jump to end of word \*
@@ -113,9 +120,5 @@ layout: page
 - `yw`: yank word
 - `y$`: yank to end of line
 - `y0`: yank to start of line
-
-# Spellcheck
-- `]s`: next
-- `[s`: previous
-- `zg`: ass to dictionary
-- `z=`: suggest spelling
+</pre>
+</details>

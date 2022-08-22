@@ -4,6 +4,18 @@ layout: page
 ---
 
 <details>
+  <summary>Recommended Authors</summary>
+  <pre>
+- Ken Thompson
+- Dennis Ritchie
+- Richard Stallman
+- Brian Kernighan
+- Michael Kerrisk
+- Donald Knuth - linux
+  </pre>
+</details>
+
+<details>
   <summary>In the queue</summary>
   <pre>
   {% for book in site.data.queue %}
