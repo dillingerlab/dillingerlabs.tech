@@ -1,5 +1,5 @@
 ---
-title: Books
+title: Template
 layout: page
 ---
 ## Current
