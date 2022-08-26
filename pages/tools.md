@@ -2,8 +2,9 @@
 title: Tools
 layout: page
 ---
-
-# Table of Contents
+# Conference Talks
+- [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
+- [Hoist Your IO](https://www.youtube.com/watch?v=PBQN62oUnN8)
 
 # Projects
 1. Hash Algorithm
@@ -12,22 +13,11 @@ layout: page
 1. Mine Sweeper
 1. devsecops.spec
 
-## Authors
-- Ken Thompson
-- Dennis Ritchie
-- Richard Stallman
-- Brian Kernighan
-- Michael Kerrisk
-- Donald Knuth - linux
-
 # Tools to Checkout
 - [`direnv`](https://direnv.net)
 - [`rigrep`](https://github.com/BurntSushi/ripgrep)
 - [`hyperfine`](https://github.com/sharkdp/hyperfine): benchmarking tool for commands
 - `zless`: less a `zip` file
-
-# Windows Improvements
-- [Map Caps Lock to Right Control Key](https://superuser.com/questions/949385/map-capslock-to-control-in-windows-10)
 
 # Command Line
 <details>
@@ -43,7 +33,7 @@ layout: page
 - `alt+d`: kill character until end of word \*
 - `alt + del`: kill character until start of word
 - `ctrl+w`: kill to previous white space
-- `ctrl+y`: paster previous kill command
+- `ctrl+y`: paste previous kill command
 - `ctrl+xx`: move between beginning of line and cursor location
 - `alt+T`: swap current word with previous \*
 - `ctrl+T`: swap last two characters before cursor
@@ -122,3 +112,6 @@ layout: page
 - `y0`: yank to start of line
 </pre>
 </details>
+
+# Windows Improvements
+- [Map Caps Lock to Right Control Key](https://superuser.com/questions/949385/map-capslock-to-control-in-windows-10)
