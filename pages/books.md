@@ -38,7 +38,7 @@ layout: page
 </details>
 
 <details>
-  <summary>2022</summary>
+  <summary>2022 - {{ site.data.read.2022 | size }}</summary>
   <pre>
   {% for book in site.data.read.2022 %}
   - Title: {{ book[0] }}
@@ -49,7 +49,7 @@ layout: page
 </details>
 
 <details>
-  <summary>2021</summary>
+  <summary>2021 - {{ site.data.read.2021 | size }}</summary>
   <body>Favorite: This Land is Our Land</body>
   <pre>
   {% for book in site.data.read.2021 %}
@@ -61,7 +61,7 @@ layout: page
 </details>
 
 <details>
-  <summary>2020</summary>
+  <summary>2020 - {{ site.data.read.2020 | size }}</summary>
   <body>Favorite: Pragmatic Programmer</body>
   <pre>
   {% for book in site.data.read.2020 %}
@@ -73,7 +73,7 @@ layout: page
 </details>
 
 <details>
-  <summary>2019</summary>
+  <summary>2019 - {{ site.data.read.2019 | size }}</summary>
   <body>Favorite: Hackers and Painters</body>
   <pre>
   {% for book in site.data.read.2019 %}
@@ -85,7 +85,7 @@ layout: page
 </details>
 
 <details>
-  <summary>2018</summary>
+  <summary>2018 - {{ site.data.read.2018 | size }}</summary>
   <body>Favorite: Hackers and Painters</body>
   <pre>
   {% for book in site.data.read.2018 %}
