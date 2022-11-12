@@ -5,6 +5,7 @@ layout: page
 # Conference Talks
 - [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 - [Hoist Your IO](https://www.youtube.com/watch?v=PBQN62oUnN8)
+- [Write Good Python](https://youtu.be/qUeud6DvOWI)
 
 # Projects
 1. Hash Algorithm
