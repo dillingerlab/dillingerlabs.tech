@@ -86,7 +86,6 @@ layout: page
 
 <details>
   <summary>2018 - {{ site.data.read.2018 | size }}</summary>
-  <body>Favorite: Hackers and Painters</body>
   <pre>
   {% for book in site.data.read.2018 %}
   - Title: {{ book[0] }}
