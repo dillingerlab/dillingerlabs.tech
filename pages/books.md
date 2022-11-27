@@ -12,6 +12,7 @@ layout: page
 - Brian Kernighan
 - Michael Kerrisk
 - Donald Knuth - linux
+- Kevlin Hennely
   </pre>
 </details>
 
