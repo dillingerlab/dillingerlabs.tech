@@ -13,6 +13,9 @@ layout: page
 - Michael Kerrisk
 - Donald Knuth - linux
 - Kevlin Hennely
+    - Talks:
+        - https://www.youtube.com/watch?v=FyCYva9DhsI
+        - https://www.youtube.com/watch?v=ZsHMHukIlJY
   </pre>
 </details>
 
