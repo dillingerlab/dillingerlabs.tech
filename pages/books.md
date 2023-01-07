@@ -42,6 +42,17 @@ layout: page
 </details>
 
 <details>
+  <summary>2023 - {{ site.data.read.2023 | size }}</summary>
+  <pre>
+  {% for book in site.data.read.2023 %}
+  - Title: {{ book[0] }}
+    Author: {{ book[1].author }}
+    Category: {{ book[1].category }}
+  {% endfor %}
+  </pre>
+</details>
+
+<details>
   <summary>2022 - {{ site.data.read.2022 | size }}</summary>
   <pre>
   {% for book in site.data.read.2022 %}
