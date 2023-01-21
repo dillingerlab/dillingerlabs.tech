@@ -8,6 +8,7 @@ Collections.counter()
 Userdict
 mappingproxytype
 set
+`inspect.Signature`
 
 #
 Optimization is the alter where maintainability is sacrificed. - Brandon
