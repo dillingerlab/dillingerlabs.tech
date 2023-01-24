@@ -15,5 +15,22 @@ mappingproxytype
 set
 `inspect.Signature`
 
+
+# Decorators
+While I have used `decorators` for many years, until reading this book I have not really understood them. The idea behind `decorators` is that you can define a function once that takes a function as an input. This function can then do "fancy" things as a side affect and return another function or the same function. I have used this with `pytest` extensively. The most common use case is a test matrix decorator. This allows me to call a function and use the decorator to feed the function with different input without coding loops all over. How cool! And now I understand how it works!
+
+## Example (from _Fluent Python_)
+```
+promos = list # create a blank list that will be filled in with the decorator
+
+def promotions(promo_func):
+    promos.append(promo_func) # add the function to the GLOBAL list variable
+    return promo_func # return the function so that is executed as expected
+
+@promotion
+def fidelity(order):
+    return order.total() *.05 #...
+```
+
 #
 Optimization is the alter where maintainability is sacrificed. - Brandon
