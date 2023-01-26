@@ -14,6 +14,7 @@ Userdict
 mappingproxytype
 set
 `inspect.Signature`
+`functools.lru_cache(maxsize=128,typed=false)`
 
 
 # Decorators
