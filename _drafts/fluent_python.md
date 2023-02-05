@@ -34,6 +34,8 @@ def promotions(promo_func):
 def fidelity(order):
     return order.total() *.05 #...
 ```
-
+`copy.deepcopy()``
+`__repr__` - implement more of these
+`reprlib.repr` - quick representation creation
 #
 Optimization is the alter where maintainability is sacrificed. - Brandon
