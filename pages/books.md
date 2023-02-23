@@ -16,6 +16,7 @@ layout: page
     - Talks:
         - https://www.youtube.com/watch?v=FyCYva9DhsI
         - https://www.youtube.com/watch?v=ZsHMHukIlJY
+        - [What Makes Python so Awesome](https://www.youtube.com/watch?v=u1sVfGEBKWQ)
   </pre>
 </details>
 
