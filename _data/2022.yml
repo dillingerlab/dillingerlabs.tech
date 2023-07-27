@@ -1,89 +1,45 @@
 ---
 Espresso Lessons:
   author: 'Arno Ilgner'
-  post: '/2022/04/23/Espresso-Lessons.html'
-  category: climbing
 The Linux Programming Interface:
   author: 'Michael Kerrisk'
-  post: '/2022/03/29/unix-programming-interface.html'
-  category: unix
 Automate the Boring Stuff:
   author: 'Al Sweigart '
-  post: 'na'
-  category: python
 A Game of Thrones:
   author: 'George R. R. Martin'
-  post: 'na'
-  category: na
 Cracking the Coding Interview:
   author: 'Gayle Laakmann McDowell'
-  post: 'na'
-  category: na
 A Clash of Kings:
   author: 'George R. R. Martin'
-  post: 'na'
-  category: na
 Enjoy the Ride:
   author: 'Steve Gilliland'
-  post: '/2022/04/03/Enjoy-the-Ride.html'
-  category: na
 Ego is the Enemy:
   author: 'Ryan Holiday'
-  post: 'na'
-  category: na
 Jurassic Park:
   author: 'Michael Crichton'
-  post: 'na'
-  category: na
 Bite Size Linux:
   author: 'Julia Evans'
-  post: 'na'
-  category: unix
 Bite Size Networking:
   author: 'Julia Evans'
-  post: 'na'
-  category: unix
 Bite Size Command Line:
   author: 'Julia Evans'
-  post: 'na'
-  category: unix
 Bite Size Bash:
   author: 'Julia Evans'
-  post: 'na'
-  category: unix
 Write Great Code:
   author: 'Randall Hyde'
-  post: 'na'
-  category: unix
 Type Talk at Work:
   author: 'na'
-  post: na
-  category: na
 Eve The Empyrean Age:
   author: 'Tony Gonzales'
-  post: na
-  category: na
 Shift Your Brilliance:
   author: 'Simon T Bailey'
-  post: 'na'
-  category: 'na'
 DevOps in Practice:
   author: 'na'
-  post: 'na'
-  category: 'devops'
 Grit:
   author: 'Angela Duckworth'
-  post: na
-  category: na
 Eve Templar One:
   author: 'na'
-  post: na
-  category: fantasy
 First Break All the Rules:
   author: 'na'
-  post: na
-  category: management
 Designing Distributed Systems:
   author: 'na'
-  post: na
-  category: na

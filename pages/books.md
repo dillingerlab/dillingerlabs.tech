@@ -26,18 +26,6 @@ layout: page
   {% for book in site.data.queue %}
   - Title: {{ book[0] }}
     Author: {{ book[1].author }}
-    Category: {{ book[1].category }}
-  {% endfor %}
-  </pre>
-</details>
-
-<details>
-  <summary>Books to Get</summary>
-  <pre>
-  {% for book in site.data.find %}
-  - Title: {{ book[0] }}
-    Author: {{ book[1].author }}
-    Category: {{ book[1].category }}
   {% endfor %}
   </pre>
 </details>
@@ -48,7 +36,6 @@ layout: page
   {% for book in site.data.2023 %}
   - Title: {{ book[0] }}
     Author: {{ book[1].author }}
-    Category: {{ book[1].category }}
   {% endfor %}
   </pre>
 </details>
@@ -59,7 +46,6 @@ layout: page
   {% for book in site.data.2022 %}
   - Title: {{ book[0] }}
     Author: {{ book[1].author }}
-    Category: {{ book[1].category }}
   {% endfor %}
   </pre>
 </details>
@@ -71,7 +57,6 @@ layout: page
   {% for book in site.data.2021 %}
   - Title: {{ book[0] }}
     Author: {{ book[1].author }}
-    Category: {{ book[1].category }}
   {% endfor %}
   </pre>
 </details>
@@ -83,7 +68,6 @@ layout: page
   {% for book in site.data.2020 %}
   - Title: {{ book[0] }}
     Author: {{ book[1].author }}
-    Category: {{ book[1].category }}
   {% endfor %}
   </pre>
 </details>
@@ -95,7 +79,6 @@ layout: page
   {% for book in site.data.2019 %}
   - Title: {{ book[0] }}
     Author: {{ book[1].author }}
-    Category: {{ book[1].category }}
   {% endfor %}
   </pre>
 </details>
@@ -106,7 +89,6 @@ layout: page
   {% for book in site.data.2018 %}
   - Title: {{ book[0] }}
     Author: {{ book[1].author }}
-    Category: {{ book[1].category }}
   {% endfor %}
   </pre>
 </details>
