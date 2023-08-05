@@ -13,15 +13,22 @@ layout: page
 - Michael Kerrisk
 - Donald Knuth - linux
 - Kevlin Hennely
+- Ken Thompson
+- Dennis Ritchie
+- Richard Stallman
+- Brian Kernighan
     - Talks:
         - https://www.youtube.com/watch?v=FyCYva9DhsI
         - https://www.youtube.com/watch?v=ZsHMHukIlJY
         - [What Makes Python so Awesome](https://www.youtube.com/watch?v=u1sVfGEBKWQ)
+- [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
+- [Hoist Your IO](https://www.youtube.com/watch?v=PBQN62oUnN8)
+- [Write Good Python](https://youtu.be/qUeud6DvOWI)
   </pre>
 </details>
 
 <details>
-  <summary>In the queue</summary>
+  <summary>Reading List</summary>
   <pre>
   {% for book in site.data.queue %}
   - Title: {{ book[0] }}
