@@ -15,6 +15,7 @@ layout: page
 - Kevlin Hennely
 - Ken Thompson
 - Dennis Ritchie
+- Rob Pike
 - Richard Stallman
 - Brian Kernighan
     - Talks:
