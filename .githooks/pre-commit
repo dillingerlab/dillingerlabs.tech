@@ -1,0 +1,8 @@
+make lint
+if [[ $? == 0 ]]; then
+    printf "good Commit"
+else
+    printf "Lint Issues! Please resolve before commiting.\n"
+    printf "commit-msg hook failed (add --no-verify to bypass)\n"
+    exit 1
+fi

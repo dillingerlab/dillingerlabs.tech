@@ -23,6 +23,9 @@ lint:
 	$(MAKE) $(VENV)
 	$(CURDIR)/.venv/bin/yamllint ./
 
+install-githook:
+	git config --local core.hooksPath .githooks/
+
 clean:
 	rm -rf $(CURDIR)/_site
 	rm $(CURDIR)/nohup.out
