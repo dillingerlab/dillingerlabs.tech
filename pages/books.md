@@ -39,6 +39,16 @@ layout: page
 </details>
 
 <details>
+  <summary>2024 - {{ site.data.2024 | size }}</summary>
+  <pre>
+  {% for book in site.data.2024 %}
+  - Title: {{ book[0] }}
+    Author: {{ book[1].author }}
+  {% endfor %}
+  </pre>
+</details>
+
+<details>
   <summary>2023 - {{ site.data.2023 | size }}</summary>
   <pre>
   {% for book in site.data.2023 %}
