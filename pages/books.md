@@ -41,25 +41,27 @@ layout: page
   <summary>2024 - {{ site.data.2024 | size }}</summary>
   <pre>
   {% for book in site.data.2024 %}
-  - Title: {{ book[0] }}
+  - {{ book[0] }}
   {% endfor %}
   </pre>
 </details>
 
 <details>
   <summary>2023 - {{ site.data.2023 | size }}</summary>
+  <body>Favorite: Lord of the Rings</body>
   <pre>
   {% for book in site.data.2023 %}
-  - Title: {{ book[0] }}
+  - {{ book[0] }}
   {% endfor %}
   </pre>
 </details>
 
 <details>
   <summary>2022 - {{ site.data.2022 | size }}</summary>
+  <body>Favorite: Grit</body>
   <pre>
   {% for book in site.data.2022 %}
-  - Title: {{ book[0] }}
+  - {{ book[0] }}
   {% endfor %}
   </pre>
 </details>
@@ -69,7 +71,7 @@ layout: page
   <body>Favorite: This Land is Our Land</body>
   <pre>
   {% for book in site.data.2021 %}
-  - Title: {{ book[0] }}
+  - {{ book[0] }}
   {% endfor %}
   </pre>
 </details>
@@ -79,7 +81,7 @@ layout: page
   <body>Favorite: Pragmatic Programmer</body>
   <pre>
   {% for book in site.data.2020 %}
-  - Title: {{ book[0] }}
+  - {{ book[0] }}
   {% endfor %}
   </pre>
 </details>
@@ -89,7 +91,7 @@ layout: page
   <body>Favorite: Hackers and Painters</body>
   <pre>
   {% for book in site.data.2019 %}
-  - Title: {{ book[0] }}
+  - {{ book[0] }}
   {% endfor %}
   </pre>
 </details>
@@ -98,7 +100,7 @@ layout: page
   <summary>2018 - {{ site.data.2018 | size }}</summary>
   <pre>
   {% for book in site.data.2018 %}
-  - Title: {{ book[0] }}
+  - {{ book[0] }}
   {% endfor %}
   </pre>
 </details>
