@@ -1,14 +1,12 @@
 ---
-Name of the Wind:
-  author: 'Patrick Rothfuss'
-Climbing Free My Life in the Vertical World:
-  author: 'Lynn Hill'
+Accelrate:
+  author: na
+Siddhartha A Novel:
+  author: 'Hermann Hesse, Hilda Rosner'
 Think Again:
   author: 'Adam Grant'
 Stories We Tell Ourselves:
   author: 'Richard Holloway'
-Siddhartha A Novel:
-  author: 'Hermann Hesse, Hilda Rosner'
 To Shake the Sleeping Self:
   author: 'Jedidiah Jenkins'
 The Illumination Process:
@@ -91,6 +89,10 @@ Zero to One Notes on Startups, or How to Build the Future:
   author: 'Peter Thiel, Blake Masters'
 Thinking in Systems:
   author: 'Donella H. Meadows, Diana Wright'
+Name of the Wind:
+  author: 'Patrick Rothfuss'
+Climbing Free My Life in the Vertical World:
+  author: 'Lynn Hill'
 Smalltalk Best Practice Patterns:
   author: 'Kent Beck'
 Area X The Southern Reach Trilogy Annihilation; Authority; Acceptance:
@@ -107,8 +109,6 @@ The Clean Coder A Code of Conduct for Professional Programmers:
   author: 'Robert Martin'
 Refactoring Improving the Design of Existing Code:
   author: 'Martin Fowler, Kent Beck'
-DNS and BIND (5th Edition):
-  author: 'Cricket Liu, Paul Albitz'
 Understanding the Linux Kernel, Third Edition:
   author: 'Daniel P. Bovet, Marco Cesati'
 The Unix Programming Environment:
@@ -123,20 +123,12 @@ Crack Climbing The Definitive Guide (Mountaineers Outdoor Expert):
   author: 'Pete Whittaker'
 Dune Saga:
   author: 'Frank Herbert'
-The Andromeda Strain:
-  author: 'Michael Crichton'
-Sphere:
-  author: 'Michael Crichton'
 Writing Idiomatic Python 3:
   author: 'Jeff Knupp'
 Rock Climbing Technique The Practical Guide to Movement Mastery:
   author: 'John Kettle'
 Design Patterns Elements of Reusable Object-Oriented Software:
   author: 'Erich Gamma, Richard Helm'
-Climbing Self Rescue Improvising Solutions for Serious Situations (Mountaineers Outdoor Expert):
-  author: 'Molly Loomis, Andy Tyson'
-Rock Climbing Anchors, 2nd Edition A Comprehensive Guide (Mountaineers Outdoor Expert):
-  author: 'Topher Donahue, Craig Luebben'
 The 7 Habits of Highly Effective People Powerful Lessons in Personal Change:
   author: 'Malcolm Gladwell'
 Talking to Strangers What We Should Know About the People We Don't Know:
@@ -152,8 +144,6 @@ Deep Work Rules for Focused Success in a Distracted World:
 The Eight Wilderness Discovery Books:
   author: 'John Muir'
 My First Summer in the Sierra with Illustrations:
-  author: 'John Muir'
-Our National Parks:
   author: 'John Muir'
 Wilderness Essays:
   author: 'John Muir'
@@ -175,7 +165,7 @@ The Obstacle is the Way:
   author: 'Ryan Holiday'
 Why Zebras Don't Get Ulcers:
   author: 'Robert M. Sapolsky'
-Heal YOur Living:
+Heal Your Living:
   author: 'Youheum Son'
 God is red:
   author: na
@@ -184,8 +174,6 @@ Gift of Imperfection:
 Domain-Driven Design:
   author: Martin Fowler
 Team Topologies:
-  author: na
-Accelrate:
   author: na
 The Beginning of Infinty:
   author: na
