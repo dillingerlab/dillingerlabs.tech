@@ -1,205 +1,103 @@
 ---
-Accelrate:
-  author: na
-Siddhartha A Novel:
-  author: 'Hermann Hesse, Hilda Rosner'
-Think Again:
-  author: 'Adam Grant'
-Stories We Tell Ourselves:
-  author: 'Richard Holloway'
-To Shake the Sleeping Self:
-  author: 'Jedidiah Jenkins'
-The Illumination Process:
-  author: 'Alberto Villoldo Ph.D.'
-The Practice Shipping Creative Work:
-  author: 'Seth Godin'
-Thinking, Fast and Slow:
-  author: 'Daniel Kahneman'
-The Gift of Fear:
-  author: 'Gavin de Becker'
-The Happiness Trap How to Stop Struggling and Start Living A Guide to ACT:
-  author: 'Russ Harris, Steven C. Hayes PhD'
-Karakoram Climbing Through the Kashmir Conflict:
-  author: 'Steve Swenson'
-The Examined Life How We Lose and Find Ourselves:
-  author: 'Stephen Grosz'
-The War of Art Break Through the Blocks and Win Your Inner Creative Battles:
-  author: 'Steven Pressfield, Shawn Coyne'
-Leave Only Footprints My Acadia-to-Zion Journey Through Every National Park:
-  author: 'Conor Knighton'
-White Fragility Why It's So Hard for White People to Talk About Racism:
-  author: 'Dr. Robin DiAngelo, Michael Eric Dyson'
-Eating Animals:
-  author: 'Jonathan Safran Foer'
-How to Win Friends and Influence People:
-  author: 'Dale Carnegie'
-The Paradox of Choice Why More is Less:
-  author: 'Barry Schwartz'
-The Ecology of Commerce Revised Edition A Declaration of Sustainability (Collins Business Essentials):
-  author: 'Paul Hawken'
-Dude Making a Difference Bamboo Bikes, Dumpster Dives and Other Extreme Adventures Across America:
-  author: 'Rob Greenfield'
-Dark Matter A Novel:
-  author: 'Blake Crouch'
-The Idea Factory Bell Labs and the Great Age of American Innovation:
-  author: 'Jon Gertner'
-Arguing A.I. The Battle for Twenty-first-Century Science:
-  author: 'Sam Williams'
-The Pilgrim's Ladder:
-  author: 'Ryan D Montoya'
-Finite and Infinite Games:
-  author: 'James P. Carse'
-Countdown to Zero Day Stuxnet and the Launch of the World's First Digital Weapon:
-  author: 'Kim Zetter'
-The Hard Thing About Hard Things Building a Business When There Are No Easy Answers:
-  author: 'Ben Horowitz'
-Camp 4 Recollections of a Yosemite Rockclimber:
-  author: 'Steve Roper'
-El Capitan Historic Feats and Radical Routes:
-  author: 'Daniel Duane'
-The Knockoff A Novel:
-  author: 'Lucy Sykes, Jo Piazza'
-No Hard Feelings The Secret Power of Embracing Emotions at Work:
-  author: 'Liz Fosslien, Mollie West Duffy'
-Show Stopper! The Breakneck Race to Create Windows NT and the Next Generation at Microsoft:
-  author: 'G. Pascal Zachary'
-Spies Among Us How to Stop the Spies, Terrorists, Hackers, and Criminals You Don't Even Know You Encounter Every Day:
-  author: 'Ira Winkler'
-Hyperfocus How to Manage Your Attention in a World of Distraction:
-  author: 'Chris Bailey'
-It Doesn't Have to Be Crazy at Work:
-  author: 'Jason Fried, David Heinemeier Hansson'
-Enlightenment Now The Case for Reason, Science, Humanism, and Progress:
-  author: 'Steven Pinker'
-Working Effectively with Legacy Code:
-  author: 'Michael Feathers'
-Algorithms to Live By The Computer Science of Human Decisions:
-  author: 'Brian Christian, Tom Griffiths'
-Quiet The Power of Introverts in a World That Can't Stop Talking:
-  author: 'Susan Cain'
-Steve Jobs:
-  author: 'Walter Isaacson'
-The Innovators How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution:
-  author: 'Walter Isaacson'
-Cryptoassets The Innovative Investor's Guide to Bitcoin and Beyond:
-  author: 'Chris Burniske, Jack Tatar'
-Zero to One Notes on Startups, or How to Build the Future:
-  author: 'Peter Thiel, Blake Masters'
-Thinking in Systems:
-  author: 'Donella H. Meadows, Diana Wright'
-Name of the Wind:
-  author: 'Patrick Rothfuss'
-Climbing Free My Life in the Vertical World:
-  author: 'Lynn Hill'
-Smalltalk Best Practice Patterns:
-  author: 'Kent Beck'
-Area X The Southern Reach Trilogy Annihilation; Authority; Acceptance:
-  author: 'Jeff VanderMeer'
-The Hitchhiker's Guide to the Galaxy The Illustrated Edition:
-  author: 'Douglas Adams'
-Building Maintainable Software, C Sharp Edition Ten Guidelines for Future-Proof Code:
-  author: 'Joost Visser, Sylvan Rigal'
-Design of Design, The Essays from a Computer Scientist:
-  author: 'Frederick Brooks Jr., John Fuller'
-Software Craftsman, The Professionalism, Pragmatism, Pride:
-  author: 'Sandro Mancuso'
-The Clean Coder A Code of Conduct for Professional Programmers:
-  author: 'Robert Martin'
-Refactoring Improving the Design of Existing Code:
-  author: 'Martin Fowler, Kent Beck'
-Understanding the Linux Kernel, Third Edition:
-  author: 'Daniel P. Bovet, Marco Cesati'
-The Unix Programming Environment:
-  author: 'Brian W. Kernighan, Rob Pike'
-The Impossible Climb Alex Honnold, El Capitan, and the Climbing Life:
-  author: 'Mark Synnott'
-Stories Behind the Images Lessons from a Life in Adventure Photography:
-  author: 'Corey Rich'
-Rock Climbing The AMGA Single Pitch Manual (How To Climb Series):
-  author: 'Bob Gaines, Jason D. Martin'
-Crack Climbing The Definitive Guide (Mountaineers Outdoor Expert):
-  author: 'Pete Whittaker'
-Dune Saga:
-  author: 'Frank Herbert'
-Writing Idiomatic Python 3:
-  author: 'Jeff Knupp'
-Rock Climbing Technique The Practical Guide to Movement Mastery:
-  author: 'John Kettle'
-Design Patterns Elements of Reusable Object-Oriented Software:
-  author: 'Erich Gamma, Richard Helm'
-The 7 Habits of Highly Effective People Powerful Lessons in Personal Change:
-  author: 'Malcolm Gladwell'
-Talking to Strangers What We Should Know About the People We Don't Know:
-  author: 'Malcolm Gladwell'
-Outliers The Story of Success:
-  author: 'Malcolm Gladwell'
-The Dharma Bums:
-  author: 'Jack Kerouac'
-Digital Minimalism Choosing a Focused Life in a Noisy World:
-  author: 'Cal Newport'
-Deep Work Rules for Focused Success in a Distracted World:
-  author: 'Cal Newport'
-The Eight Wilderness Discovery Books:
-  author: 'John Muir'
-My First Summer in the Sierra with Illustrations:
-  author: 'John Muir'
-Wilderness Essays:
-  author: 'John Muir'
-Travels in Alaska:
-  author: 'John Muir'
-Switch How to Change Things When Change Is Hard:
-  author: 'Chip Heath, Dan Heath'
-The Last Wish:
-  author: 'Andrzej Sapkowski'
-Sword of Destiny:
-  author: 'Andrzej Sapkowski'
-Blood of Elves:
-  author: 'Andrzej Sapkowski'
-Get Out of Your Mind and Into Your Life:
-  author: 'Steven Hayes'
-Cadillac Desert:
-  author: 'Marc Reisner'
-The Obstacle is the Way:
-  author: 'Ryan Holiday'
-Why Zebras Don't Get Ulcers:
-  author: 'Robert M. Sapolsky'
-Heal Your Living:
-  author: 'Youheum Son'
-God is red:
-  author: na
-Gift of Imperfection:
-  author: na
-Domain-Driven Design:
-  author: Martin Fowler
-Team Topologies:
-  author: na
-The Beginning of Infinty:
-  author: na
-Art of Computer Programming 4:
-  author: na
-Design Patterns:
-  author: na
-Rapid Development:
-  author: na
-Exterme Programming Explained:
-  author: na
-The Art of Computer Programming:
-  author: Donald Knuth
-Learning Python Design Patterns:
-  author: zlobin
-Project to Product:
-  author: na
-Mythical Man-Month:
-  author: na
-My Little Schemer:
-  author: Daniel P Fredman
-The Untethered Soul:
-  author: Michael A. Singer
-The Art of Assembly:
-  author: na
-A Creative Way of Being:
-  author: na
-Spark The Revolutionary New Science and the Brain:
-  author: na
-Take Less Do More:
-  author: Glen Van Peski
+- Accelrate
+- Siddhartha A Novel
+- Think Again
+- Stories We Tell Ourselves
+- To Shake the Sleeping Self
+- The Illumination Process
+- The Practice Shipping Creative Work
+- Thinking, Fast and Slow
+- The Gift of Fear
+- The Happiness Trap How to Stop Struggling and Start Living A Guide to ACT
+- Karakoram Climbing Through the Kashmir Conflict
+- The Examined Life How We Lose and Find Ourselves
+- The War of Art Break Through the Blocks and Win Your Inner Creative Battles
+- Leave Only Footprints My Acadia-to-Zion Journey Through Every National Park
+- White Fragility Why It's So Hard for White People to Talk About Racism
+- Eating Animals
+- How to Win Friends and Influence People
+- The Paradox of Choice Why More is Less
+- The Ecology of Commerce Revised Edition A Declaration of Sustainability (Collins Business Essentials)
+- Dude Making a Difference Bamboo Bikes, Dumpster Dives and Other Extreme Adventures Across America
+- Dark Matter A Novel
+- The Idea Factory Bell Labs and the Great Age of American Innovation
+- Arguing A.I. The Battle for Twenty-first-Century Science
+- The Pilgrim's Ladder
+- Finite and Infinite Games
+- Countdown to Zero Day Stuxnet and the Launch of the World's First Digital Weapon
+- The Hard Thing About Hard Things Building a Business When There Are No Easy Answers
+- Camp 4 Recollections of a Yosemite Rockclimber
+- El Capitan Historic Feats and Radical Routes
+- The Knockoff A Novel
+- No Hard Feelings The Secret Power of Embracing Emotions at Work
+- Show Stopper! The Breakneck Race to Create Windows NT and the Next Generation at Microsoft
+- Spies Among Us How to Stop the Spies, Terrorists, Hackers, and Criminals You Don't Even Know You Encounter Every Day
+- Hyperfocus How to Manage Your Attention in a World of Distraction
+- It Doesn't Have to Be Crazy at Work
+- Enlightenment Now The Case for Reason, Science, Humanism, and Progress
+- Working Effectively with Legacy Code
+- Algorithms to Live By The Computer Science of Human Decisions
+- Quiet The Power of Introverts in a World That Can't Stop Talking
+- Steve Jobs
+- The Innovators How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution
+- Cryptoassets The Innovative Investor's Guide to Bitcoin and Beyond
+- Zero to One Notes on Startups, or How to Build the Future
+- Thinking in Systems
+- Name of the Wind
+- Climbing Free My Life in the Vertical World
+- Smalltalk Best Practice Patterns
+- Area X The Southern Reach Trilogy Annihilation; Authority; Acceptance
+- The Hitchhiker's Guide to the Galaxy The Illustrated Edition
+- Building Maintainable Software, C Sharp Edition Ten Guidelines for Future-Proof Code
+- Design of Design, The Essays from a Computer Scientist
+- Software Craftsman, The Professionalism, Pragmatism, Pride
+- The Clean Coder A Code of Conduct for Professional Programmers
+- Refactoring Improving the Design of Existing Code
+- Understanding the Linux Kernel, Third Edition
+- The Unix Programming Environment
+- The Impossible Climb Alex Honnold, El Capitan, and the Climbing Life
+- Stories Behind the Images Lessons from a Life in Adventure Photography
+- Rock Climbing The AMGA Single Pitch Manual (How To Climb Series)
+- Crack Climbing The Definitive Guide (Mountaineers Outdoor Expert)
+- Dune Saga
+- Writing Idiomatic Python 3
+- Rock Climbing Technique The Practical Guide to Movement Mastery
+- Design Patterns Elements of Reusable Object-Oriented Software
+- The 7 Habits of Highly Effective People Powerful Lessons in Personal Change
+- Talking to Strangers What We Should Know About the People We Don't Know
+- Outliers The Story of Success
+- The Dharma Bums
+- Digital Minimalism Choosing a Focused Life in a Noisy World
+- Deep Work Rules for Focused Success in a Distracted World
+- The Eight Wilderness Discovery Books
+- My First Summer in the Sierra with Illustrations
+- Wilderness Essays
+- Travels in Alaska
+- Switch How to Change Things When Change Is Hard
+- The Last Wish
+- Sword of Destiny
+- Blood of Elves
+- Get Out of Your Mind and Into Your Life
+- Cadillac Desert
+- The Obstacle is the Way
+- Why Zebras Don't Get Ulcers
+- Heal Your Living
+- God is red
+- Gift of Imperfection
+- Domain-Driven Design
+- Team Topologies
+- The Beginning of Infinity
+- Art of Computer Programming 4
+- Design Patterns
+- Rapid Development
+- Extreme Programming Explained
+- The Art of Computer Programming
+- Learning Python Design Patterns
+- Project to Product
+- Mythical Man-Month
+- My Little Schemer
+- The Untethered Soul
+- The Art of Assembly
+- A Creative Way of Being
+- Spark The Revolutionary New Science and the Brain
+- Take Less Do More
