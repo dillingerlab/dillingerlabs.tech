@@ -21,7 +21,7 @@ serve:  ## run local server
 
 
 kill:  ## stop local server
-	pgrep jekyll | xargs kill -15
+	pgrep -f jekyll | xargs kill -15
 
 
 lint:  ## yamllint data files
