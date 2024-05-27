@@ -11,6 +11,7 @@ $(VENV)::$(CURDIR)/requirements.txt
 
 
 dev:
+	bundle install
 	$(MAKE) $(VENV)
 
 serve:
