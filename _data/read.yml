@@ -1,5 +1,6 @@
 ---
 2024:
+  - Team Topologies
   - The Last Wish
   - Semper Fi
   - Dark Territory (Audiobook)
@@ -30,75 +31,75 @@
   - The Idea Factory Bell Labs and the Great Age of American Innovation
   - Get Out of Your Mind and Into Your Life
 2023:
-  - Timeline
-  - The Soul of A New Machine
-  - Fluent Python
-  - The Martian
-  - The Silmarillion
-  - Hackers and Painters
-  - Behavior Adjustment Training 2.0
-  - Clean Code
-  - Lord of the Rings
-  - Patterns of Software
-  - A Court of Thorns and Roses
-  - A Court of Mist and Fury
-  - A Court of Wings and Ruin
-  - Code Complete
-  - Soul Boom
-  - Purpose on the Colorado Trail
   - Lord of the Rings Fellowship of the Ring (Audiobook)
-2022:
-  - Espresso Lessons
-  - The Linux Programming Interface
-  - Automate the Boring Stuff
-  - A Game of Thrones
-  - Cracking the Coding Interview
-  - A Clash of Kings
-  - Enjoy the Ride
-  - Ego is the Enemy
-  - Jurassic Park
-  - Bite Size Linux
-  - Bite Size Networking
-  - Bite Size Command Line
-  - Bite Size Bash
-  - Write Great Code
-  - Type Talk at Work
-  - Eve The Empyrean Age
-  - Shift Your Brilliance
-  - DevOps in Practice
-  - Grit
-  - Eve Templar One
-  - First Break All the Rules
-  - Designing Distributed Systems
-2021:
-  - Training for Climbing
-  - Freedom of the Hills
-  - Sapiens
-  - Power of Habits
-  - Born to Run
-  - The Practices of Programming
-  - Trespassing Across America
-  - Falcon Self Rescue
-  - This Land is Our Land
-  - Python Cookbook
-  - Rock Warrior's Way
-  - The Subtle Art of Not Giving a Fuck
-  - The Unix Command Line
-2020:
-  - The Push
-  - How to Rock Climb
-  - Running with Sherman
-  - High Performance Python
-  - Unfuck Your Brain
-  - Pragmatic Programmer
-2019:
-  - The Phoenix Project
-  - Alone on the Wall
-  - Site Reliability Engineering
-  - On the Road
+  - Purpose on the Colorado Trail
+  - Soul Boom
+  - Code Complete
+  - A Court of Wings and Ruin
+  - A Court of Mist and Fury
+  - A Court of Thorns and Roses
+  - Patterns of Software
+  - Lord of the Rings
+  - Clean Code
+  - Behavior Adjustment Training 2.0
   - Hackers and Painters
-  - The Information
+  - The Silmarillion
+  - The Martian
+  - Fluent Python
+  - The Soul of A New Machine
+  - Timeline
+2022:
+  - Designing Distributed Systems
+  - First Break All the Rules
+  - Eve Templar One
+  - Grit
+  - DevOps in Practice
+  - Shift Your Brilliance
+  - Eve The Empyrean Age
+  - Type Talk at Work
+  - Write Great Code
+  - Bite Size Bash
+  - Bite Size Command Line
+  - Bite Size Networking
+  - Bite Size Linux
+  - Jurassic Park
+  - Ego is the Enemy
+  - Enjoy the Ride
+  - A Clash of Kings
+  - Cracking the Coding Interview
+  - A Game of Thrones
+  - Automate the Boring Stuff
+  - The Linux Programming Interface
+  - Espresso Lessons
+2021:
+  - The Unix Command Line
+  - The Subtle Art of Not Giving a Fuck
+  - Rock Warrior's Way
+  - Python Cookbook
+  - This Land is Our Land
+  - Falcon Self Rescue
+  - Trespassing Across America
+  - The Practices of Programming
+  - Born to Run
+  - Power of Habits
+  - Sapiens
+  - Freedom of the Hills
+  - Training for Climbing
+2020:
+  - Pragmatic Programmer
+  - Unfuck Your Brain
+  - High Performance Python
+  - Running with Sherman
+  - How to Rock Climb
+  - The Push
+2019:
   - How Linux Works
+  - The Information
+  - Hackers and Painters
+  - On the Road
+  - Site Reliability Engineering
+  - Alone on the Wall
+  - The Phoenix Project
 2018:
-  - Crucial Conversations
   - DevOps Handbook
+  - Crucial Conversations
