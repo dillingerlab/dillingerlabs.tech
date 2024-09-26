@@ -9,5 +9,4 @@ layout: home
 - [Rich Hickey - Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
 - [Rich Hickey - Simple Made Easy](https://www.youtube.com/watch?v=LKtk3HCgTa8)
 - [Rich Hickey - Design in Practice](https://www.youtube.com/watch?v=c5QF2HjHLSE)
-- [Raymond Hettiger - What Makes Python so Awesome](https://www.youtube.com/watch?v=u1sVfGEBKWQ)
 
