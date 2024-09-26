@@ -275,7 +275,7 @@ GEM
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
     uri (0.13.1)
-    webrick (1.8.1)
+    webrick (1.8.2)
 
 PLATFORMS
   aarch64-linux
@@ -289,7 +289,7 @@ DEPENDENCIES
   activesupport (>= 6.1.7.5)
   github-pages (= 231)
   jekyll (= 3.9.5)
-  webrick (= 1.8.1)
+  webrick (= 1.8.2)
 
 BUNDLED WITH
    2.5.6
